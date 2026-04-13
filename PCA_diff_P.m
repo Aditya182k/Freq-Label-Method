@@ -3,7 +3,7 @@ clear;
 close all;
 
 %% ================= USER SETTINGS =================
-folder = 'C:\Users\ADITYA\Downloads\Extracted_Frames'; % <<< CHANGE
+folder = 'PATH'; % <<< CHANGE
 
 p_list = [20];   % <<< YOUR FREQUENCY LABELS
 numPC_static = 3;                    % Static PCs to remove
