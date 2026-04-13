@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 %% ================= USER INPUT =================
-folder = 'C:\Users\ADITYA\Downloads\Exp Data\Aman\6.2.26\30fps-10ms'; % <<< CHANGE
+folder = 'PATH'; % <<< CHANGE
 chunkSize = 1000;   % adjust if RAM issue
 %% =============================================
 
