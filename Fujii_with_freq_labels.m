@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 %% ================= USER CONTROL PANEL =================
-folder = 'C:\Users\ADITYA\Downloads\Exp Data\Aman\Hibiscus\20.2.26\12.40pm\UnPol\UnPol\Extracted_Frames';   % <<< CHANGE
+folder = 'PATH';   % <<< CHANGE
 fps = 30;                           % acquisition frame rate
 chunkSize = 1626;
 
