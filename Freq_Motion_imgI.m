@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 %% ================= USER INPUT =================
-folder = 'C:\Users\ADITYA\Downloads\Exp Data\Aman\frames'; % <<< CHANGE
+folder = 'PATH of IMAGES'; % <<< CHANGE
 chunkSize = 500;
 %% =============================================
 
